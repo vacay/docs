@@ -31,6 +31,7 @@ Note: There are legal and financial consequences for fraudulent and/or bad faith
 #### How to File a Counter-Notice
 Email your counter-notice to admin@vacay.io.
 Include ALL of the following:
+
 * Your name, address, and telephone number.
 * DMCA ID printed at the bottom of the notification email.
 * The source address of the content that was removed (copy and paste the link in the notification email).
