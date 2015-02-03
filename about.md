@@ -35,6 +35,7 @@ A music player that uses audio fingerprints to consolidate music sources and ser
 
 ### Contributing
 vacay is a personal project/hobby that has driven me to learn programming over the last 2 years. Many of its features are half-baked and the UX needs a lot of work. I will no longer be heavily developing it as it has been overpowered by a desire to bring about radical decentralization. I will continue to maintain and work on it as a side project. If you want to help realize its full potential there are many ways to get involved, mainly:
+
 * in general, be an active member of the community in any way you see fit - your unique perspective alone is enough to provide value to the community
 * get involved in any aspect of the development process (planning, evaluation, building, analysis). Create [discussions](https://vacay.io/discussions) that provide feedback or suggest improvements
 * attract tastemakers & active music fans
