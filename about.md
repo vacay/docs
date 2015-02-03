@@ -27,7 +27,7 @@ A music player that uses audio fingerprints to consolidate music sources and ser
 ### Values / Culture
 * pro community owned, driven & governed
 * pro radical decentralization
-* anti incentivization of music sharing/broadcasting/promotion
+* anti incentivized music sharing/broadcasting/promotion
 * pro original content
 * pro attribution of content
 * pro open data & source
