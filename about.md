@@ -1,4 +1,4 @@
-## Collect, organize, and play music from all over on the internet.
+## Vacay let's you collect, organize, and play music from all over on the internet.
 You can add music to vacay from most major music sites (soundcloud, youtube, bandcamp, mixcloud, hypem, [and more](https://vacay.io/discussion/41)).  Once it's in our system, Vacay then lets you organize your music and play (or even download) it whenever you'd like.
 
 Vacay uses audio fingerprints to consolidate music sources and services - so that when you play a song - we choose the highest quality stream available online from all of the sources we monitor.
