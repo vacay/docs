@@ -13,8 +13,8 @@ Vacay uses audio fingerprints to consolidate music sources and services - so tha
 * a single music queue across sources/services
 * a searchable listening history with date, device info and location
 * collect music from various sources, which you can organize with tags & search
-* convert pages on the internet into music feeds & playlists by copying and pasting url into vacay search bar or typing 'vacay.io/' at the begnining of any URL - subscribe to them and receive music as its added
-* build mixtapes (prescriptions) for friends and followers - regardless of what services they use.
+* convert pages on the internet into music feeds & playlists by copying and pasting the url into the vacay search bar or typing 'vacay.io/' at the begnining of any URL - subscribe to them and receive music as its added
+* build mixtapes (prescriptions) for friends and followers.
 * listen in mode - listen along with other users on the site
 * remote control mode - when vacay is loaded two or more times, audio will be played from one but you can control it from all connections
 * keyboard shortcuts
