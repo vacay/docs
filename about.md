@@ -18,7 +18,7 @@ Vacay uses [audio fingerprints](http://en.wikipedia.org/wiki/Acoustic_fingerprin
 * [listen in mode](https://vacay.io/discussion/43) - listen along with other users on the site
 * [remote control mode](https://vacay.io/discussion/31) - when vacay is loaded two or more times, audio will be played from one but you can control it from all connections
 * keyboard shortcuts
-* chrome extension
+* [chrome extension](https://chrome.google.com/webstore/detail/vacay/mgogmlhnenlkmngbdoclecmgbldfjbpj)
 * bookmarklet - add pages while on them, using any desktop browser
 
 ### Vision
