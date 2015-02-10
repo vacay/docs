@@ -15,7 +15,7 @@ Vacay uses [audio fingerprints](http://en.wikipedia.org/wiki/Acoustic_fingerprin
 * a searchable listening history with date, device info and location
 * collect music from various sources, which you can organize with tags & search
 * build mixtapes (prescriptions) for friends and followers.
-* [listen in mode](https://vacay.io/discussion/43)r - listen along with other users on the site
+* [listen in mode](https://vacay.io/discussion/43) - listen along with other users on the site
 * [remote control mode](https://vacay.io/discussion/31) - when vacay is loaded two or more times, audio will be played from one but you can control it from all connections
 * keyboard shortcuts
 * chrome extension
