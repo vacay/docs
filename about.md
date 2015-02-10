@@ -9,7 +9,7 @@ Vacay uses [audio fingerprints](http://en.wikipedia.org/wiki/Acoustic_fingerprin
 * **crate** - your collection
 * **tag** - a way of categorizing and organzing your collection for improved searching and playlist generation
 
-### Notable Features
+### Features
 * convert pages on the internet into music feeds & playlists by copying and pasting the url into the vacay search bar or typing 'vacay.io/' at the begnining of any URL - subscribe to them and receive music as its added
 * a single music queue across sources/services
 * a searchable listening history with date, device info and location
