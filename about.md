@@ -1,4 +1,4 @@
-## Collect, organize, and play music from all over the internet.
+## Collect, organize, and play music from all over.
 You can add music to vacay from most major music sites (soundcloud, youtube, bandcamp, mixcloud, hypem, [and more](https://vacay.io/discussion/41)).  Once it's in our system, Vacay then lets you organize your music and play (or even download) it whenever you'd like.
 
 Vacay uses [audio fingerprints](http://en.wikipedia.org/wiki/Acoustic_fingerprint) to consolidate music sources and services - so that when you play a song - we choose the highest quality stream available online from all of the sources we monitor.
@@ -19,7 +19,7 @@ Vacay uses [audio fingerprints](http://en.wikipedia.org/wiki/Acoustic_fingerprin
 * [remote control mode](https://vacay.io/discussion/31) - when vacay is loaded two or more times, audio will be played from one but you can control it from all connections
 * keyboard shortcuts
 * [chrome extension](https://chrome.google.com/webstore/detail/vacay/mgogmlhnenlkmngbdoclecmgbldfjbpj)
-* bookmarklet - add pages while on them, using any desktop browser
+* bookmarklet - add pages while on them, using any desktop browser. Drag this button <a class="bookmarklet" href="javascript:void(open('https://vacay.io/search?q=' + window.location,'',''))">+ vacay</a> to your bookmarks bar to add music while browsing other websites & convert the page that you are on into a streamable playlist. Make sure your bookmarks bar is visible before you start dragging...
 
 ### Vision
 * attracting active music fans (tastemakers & curators) to power a music recommendation service for passive listeners
