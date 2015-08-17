@@ -4,10 +4,10 @@ You can add music to vacay from most major music sites (soundcloud, youtube, ban
 Vacay uses [audio fingerprints](http://en.wikipedia.org/wiki/Acoustic_fingerprint) to consolidate music sources and services - so that when you play a song - we choose the highest quality stream available online from all of the sources we monitor.
 
 ### Nomenclature
-* **vitamin** - a recording with nutritional value
-* **prescription** - a recommendation of one or more vitamins solely intended for the betterment of the community
-* **crate** - your collection
-* **tag** - a way of categorizing and organzing your collection for improved searching and playlist generation
+* **vitamin** - A recording with nutritional value.
+* **prescription** - A recommendation of one or more vitamins solely intended for the betterment of the community. Think of it as a mixtape.
+* **crate** - Your personal collection.
+* **tag** - A way of categorizing and organzing your collection for improved searching and playlist generation.
 
 ### Features
 * convert pages on the internet into music feeds & playlists by copying and pasting the url into the vacay search bar or typing 'vacay.io/' at the begnining of any URL - subscribe to them and receive music as its added
