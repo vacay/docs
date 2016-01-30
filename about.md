@@ -25,7 +25,6 @@ Easily import music and convert pages on the internet into music feeds & playlis
 * a searchable music crate with tagging support
 * a listening queue
 * a searchable listening history (with date, device info and location)
-* build mixtapes (prescriptions) for friends and followers.
 * [listen in mode](https://vacay.io/discussion/43) - listen along in realtime with othere users on the site
 * [remote control mode](https://vacay.io/discussion/31) - when vacay is open in two or more places, audio will be played from one but you can control it from all connections
 * keyboard shortcuts
