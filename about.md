@@ -27,7 +27,13 @@ Easily import music and convert pages on the internet into music feeds & playlis
 * a searchable listening history (with date, device info and location)
 * [listen in mode](https://vacay.io/discussion/43) - listen along in realtime with othere users on the site
 * [remote control mode](https://vacay.io/discussion/31) - when vacay is open in two or more places, audio will be played from one but you can control it from all connections
-* keyboard shortcuts
+
+### keyboard shortcuts
+* **s** : goes to search
+* **spacebar** : play/puase
+* **&larr;** : If at the beginning of a track, goes to previous. Otherwise, restarts track.
+* **&rarr;** : plays next
+* **c** : goes to your crate
 
 ### Vision
 * attracting active music fans (tastemakers & curators) to power a music recommendation service for passive listeners
