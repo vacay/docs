@@ -28,6 +28,8 @@ Easily import music and convert pages on the internet into music feeds & playlis
 * [listen in mode](https://vacay.io/discussion/43) - listen along in realtime with othere users on the site
 * [remote control mode](https://vacay.io/discussion/31) - when vacay is open in two or more places, audio will be played from one but you can control it from all connections
 
+![Browser Extension](http://i.imgur.com/WyWRUeO.gif)
+
 ### keyboard shortcuts
 * **s** : goes to search
 * **spacebar** : play/puase
