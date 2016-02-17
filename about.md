@@ -61,3 +61,8 @@ vacay is a personal project/hobby. Many of its features are half-baked and the U
 * Be an active member of the community in any way you see fit - your unique perspective alone is enough to provide value to the community
 * Get involved in any aspect of the development process (planning, evaluation, building, analysis). Create [discussions](https://vacay.io/discussions) that provide feedback or suggest improvements
 * Attract tastemakers & active music fans
+
+### Contact
+* email: admin@vacay.io / kr@vacay.io
+* twitter: [@vacay0](https://twitter.com/vacay0)
+* facebook: [facebook.com/vacay0](https://facebook.com/vacay0)
