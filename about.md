@@ -11,7 +11,7 @@ You can add music to vacay from many sites (soundcloud, youtube, bandcamp, mixcl
 Very much like a mixtape, prescriptions are a compilation of music put together in a specific order. It may include a selection of favourite songs, or music linked by theme or mood. Prescriptions are solely intended for the betterment of the community and curing its receipients of ailments. Do not make prescriptions for your own benefit... you wouldn't want your doctor doing the same.
 
 ### Inbox
-A personal configurable music feed for vacay (and the internet). By subscribing to users, you can receive prescriptions from them. By subscribing to pages on the internet, you will receive vitamins as they are added to the page.
+A personal configurable music feed for the internet. Build your feed with any public url with streamable music.
 
 ### How to add music & pages to vacay
 Easily import music and convert pages on the internet into music feeds & playlists. There are a few ways:
