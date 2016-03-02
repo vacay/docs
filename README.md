@@ -36,6 +36,8 @@ Easily import music and convert pages on the internet into music feeds & playlis
 * **&larr;** : If at the beginning of a track, goes to previous. Otherwise, restarts track.
 * **&rarr;** : plays next
 * **c** : goes to your crate
+* **i** : goes to inbox
+* **d** : goes to your drafts
 
 ### Vision
 * attracting active music fans (tastemakers & curators) to power a music recommendation service for passive listeners
