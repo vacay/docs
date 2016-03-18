@@ -38,6 +38,7 @@ Easily import music and convert pages on the internet into music feeds & playlis
 * **c** : goes to your crate
 * **i** : goes to inbox
 * **d** : goes to your drafts
+* **h** : goes to home
 
 ### Vision
 * attracting active music fans (tastemakers & curators) to power a music recommendation service for passive listeners
