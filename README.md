@@ -5,13 +5,16 @@ You can add music to vacay from many sites (soundcloud, youtube, bandcamp, mixcl
 * **vitamin** - A recording.
 * **prescription** - A mixtape.
 * **crate** - Your personal collection.
-* **tag** - A way of categorizing and organzing your collection for improved searching. A better approach to playlisting.
+* **tag** - A way of categorizing and organzing your collection. A better approach to playlisting.
 
 ### Prescriptions
 Very much like a mixtape, prescriptions are a compilation of music put together in a specific order. It may include a selection of favourite songs, or music linked by theme or mood. Prescriptions are solely intended for the betterment of the community and curing its receipients of ailments. Do not make prescriptions for your own benefit... you wouldn't want your doctor doing the same.
 
 ### Inbox
 A personal configurable music feed for the internet. Build your feed with any public url with streamable music.
+
+### Activity
+When a user tags you, it will show up here.
 
 ### How to add music & pages to vacay
 Easily import music and convert pages on the internet into music feeds & playlists. There are a few ways:
@@ -20,15 +23,16 @@ Easily import music and convert pages on the internet into music feeds & playlis
 * [chrome extension](https://chrome.google.com/webstore/detail/vacay/mgogmlhnenlkmngbdoclecmgbldfjbpj)
 * bookmarklet - add pages while on them, using any desktop browser. Drag this button <a class="bookmarklet" href="javascript:void(open('https://vacay.io/search?q=' + window.location,'',''))">+ vacay</a> to your bookmarks bar to add music while browsing other websites & convert the page that you are on into a streamable playlist. Make sure your bookmarks bar is visible before you start dragging...
 
+![Browser Extension](http://i.imgur.com/WyWRUeO.gif)
+
 ### Additional Features
 
 * a searchable music crate with tagging support
 * a listening queue
 * a searchable listening history (with date, device info and location)
-* [listen in mode](https://vacay.io/discussion/43) - listen along in realtime with othere users on the site
 * [remote control mode](https://vacay.io/discussion/31) - when vacay is open in two or more places, audio will be played from one but you can control it from all connections
-
-![Browser Extension](http://i.imgur.com/WyWRUeO.gif)
+* [Rooms](https://vacay.io/discussion/105) - A way for groups of users to listen to music together.
+* share a vitamin with tags by beginning a tag with "@" followed by someone's username
 
 ### keyboard shortcuts
 * **s** : goes to search
@@ -54,9 +58,6 @@ Easily import music and convert pages on the internet into music feeds & playlis
 * pro attribution of content
 * pro open data & source
 * anti technologically replaceable intermediaries
-
-### Under the hood
-* Vacay uses [audio fingerprints](http://en.wikipedia.org/wiki/Acoustic_fingerprint) to consolidate music sources and services - so that when you play a song - we choose the highest quality stream available online from all of the sources we monitor.
 
 ### Contributing
 vacay is a personal project/hobby. Many of its features are half-baked and the UX needs a lot of work. I will continue to maintain and work on it as a side project. If you want to help realize its full potential there are many ways to get involved, mainly:
