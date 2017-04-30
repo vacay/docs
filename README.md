@@ -46,7 +46,7 @@ Easily import music and convert pages on the internet into music feeds & playlis
 
 ### Vision
 * attracting active music fans (tastemakers & curators) to power a music recommendation service for passive listeners
-* an entirely decentralized & frictionless music distribution network with compensation for seeders & creators
+* an entirely decentralized & frictionless music distribution network with compensation for curators & creators
 * integration of music & event discovery - for example you can subscribe to djs/artists to receive the tracks they play live.
 * empowering and building the brands of artists & tastemakers
 
