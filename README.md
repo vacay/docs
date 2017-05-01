@@ -70,3 +70,4 @@ vacay is a personal project/hobby. Many of its features are half-baked and the U
 * email: admin@vacay.io / kr@vacay.io
 * twitter: [@vacay0](https://twitter.com/vacay0)
 * facebook: [facebook.com/vacay0](https://facebook.com/vacay0)
+* github: [github.com/vacay](https://github.com/vacay)
